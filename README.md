@@ -23,7 +23,7 @@ This solution leverages Large Language Models (LLMs) to process text and identif
 
     ```json
     {
-      "file": "<uploaded_job_description.pdf>"
+      "job_description_file": "<uploaded_job_description.pdf>"
     }
     ```
 
@@ -60,7 +60,7 @@ This solution leverages Large Language Models (LLMs) to process text and identif
         "5+ years of experience in Python development",
         "Strong background in Machine Learning"
       ],
-      "files": [
+      "file_list": [
         "<uploaded_resume_1.pdf>",
         "<uploaded_resume_2.docx>",
         "<uploaded_resume_3.pdf>"
